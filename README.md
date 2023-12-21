@@ -36,6 +36,8 @@ Thank you to University of Sydney Coding Course for providing the starter code f
 
 The started code can be accessed at this Github repository: https://github.com/coding-boot-camp/crispy-octo-meme
 
+Where I struggled to solve a particular problem or overcome a bug, I used Google, the MDN web docs and ChatGPT to help work through any issues and debug my code. 
+
 ## License
 
 This project has been built using an MIT License. 
